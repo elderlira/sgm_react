@@ -1,8 +1,11 @@
 import React from 'react';
 
+import LoginForm from './components/Formulario/Login'
+
 function App() {
   return (
     <div className="App">
+      <LoginForm />
     </div>
   );
 }
