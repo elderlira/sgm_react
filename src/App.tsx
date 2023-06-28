@@ -1,6 +1,6 @@
 import React from 'react';
 
-import LoginForm from './components/Formulario/Login'
+import LoginForm from './components/Form/Login'
 
 function App() {
   return (
